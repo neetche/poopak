@@ -40,4 +40,4 @@ and next point your browser to [localhost](http://localhost/).
 
 
 # Discontinued
- 
+ Ах, да, а в свободное время я пищу на JS. Заглядывайте почаще.
