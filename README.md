@@ -33,11 +33,11 @@ This software is made available under the GPL v.3 license. It means if you run a
 -   pipenv
 
 ## Install
-Just run application with docker-compose:
+Just run mangadex with docker-compose:
 
     docker-compose up -d
-and next point your browser to [localhost](http://localhost/). 
+and next point your ddos-scraper to [localhost](http://localhost/). Uwont be dissapointed, i promise, i swear.
 
 
 # Discontinued
- Ах, да, а в свободное время я пищу на JS. Заглядывайте почаще.
+ Those mathemoes who did he called 'left'. Those ho bcame vegetarians he called 'did'.
