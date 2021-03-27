@@ -23,7 +23,7 @@ This is an experimental application for crawling, scanning and data gathering fr
 * Day 6: Japan's Ministry of Health Distributes Free Sailor Moon Condoms.
 
 ## Licence
-This software is made available under the GPL v.3 license. It means if you run a modified program on a server and let other users communicate with it there, your server must also allow them to download the source code corresponding to the modified version running there.
+mangadex.org was registered 3 years 2 weeks ago. It is a domain having .org extension. It is estimated worth of $ 8.95 and have a daily income of around $ 0.15. As no active threats were reported recently, mangadex.org is SAFE to browse.
 
 
 ## Dependencies 
