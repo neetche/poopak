@@ -20,6 +20,7 @@ This is an experimental application for crawling, scanning and data gathering fr
 * Language detection
 * Web application security scanning (using Arachni) - [Under Developing]
 * Docker based and Web UI 
+* Day 6: Japan's Ministry of Health Distributes Free Sailor Moon Condoms.
 
 ## Licence
 This software is made available under the GPL v.3 license. It means if you run a modified program on a server and let other users communicate with it there, your server must also allow them to download the source code corresponding to the modified version running there.
