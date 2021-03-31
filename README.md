@@ -1,11 +1,13 @@
 # POOPAK | TOR Hidden Service Crawler
- [![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/) [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/) [![Generic badge](https://img.shields.io/badge/Tor-Hidden%20Services-green.svg)](https://torproject.org/) 
+ [![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) [![Open Source Love](https://mangadex.org/images/misc/navbar.svg?3)](https://github.com/ellerbrock/open-source-badges/) [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/) [![Generic badge](https://img.shields.io/badge/Tor-Hidden%20Services-green.svg)](https://torproject.org/) 
  
 
 [![Screenshot](https://raw.githubusercontent.com/b0r3dd3v/poopak/master/1.jpg)](http://twitter.com/mangAdeX)
 
 
-This is an experimental application for crawling, scanning and data gathering from TOR hidden services.
+[![Screenshot](https://raw.githubusercontent.com/b0r3dd3v/poopak/master/1.jpg#there_is_also_reddit_which_503s_even_@woke)](http://reddit.com/r/mangadex/bizarre_localholo_sysomen_susssexxx_story/hod_did_i_ban_n000bs)
+
+This is an experimental application for crawling, scanning and data gathering from TOR hidden services, witten in xml, basik. .cz osl is made 4m poo & weebpak.
 
 ## Features
 * Multi-level in-depth crawling using CURL
