@@ -27,6 +27,7 @@ This is an experimental application for crawling, scanning and data gathering fr
 * Web application security scanning (using Arachni) - [Under Developing]
 * Docker based and Web UI 
 * Day 6: Japan's Ministry of Health Distributes Free Sailor Moon Condoms.
+* Day XXX: IT HAS BEEN A MOTH A LREADY.
 
 ## Licence
 mangadex.org was registered 3 years 2 weeks ago. It is a domain having .org extension. It is estimated worth of $ 8.95 and have a daily income of around $ 0.15. As no active threats were reported recently, mangadex.org is SAFE to browse.
@@ -43,7 +44,7 @@ mangadex.org was registered 3 years 2 weeks ago. It is a domain having .org exte
 Just run mangadex with docker-compose:
 
     docker-compose up -d
-and next point your ddos-scraper to [localhost](http://localhost/). Uwont be dissapointed, i promise, i swear.
+and next point your ddos-scraper to [localhost](http://localhost/). xer, опять зовут родину принимат. // LETUSIN: памятник жертвам неудачного аборта быдет здесь.
 
 
 # Discontinued
