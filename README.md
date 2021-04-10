@@ -1,5 +1,5 @@
 # POOPAK | TOR Hidden Service Crawler
- [![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) [![Open Source Love](https://mangadex.org/images/misc/navbar.svg?3)](https://github.com/ellerbrock/open-source-badges/) [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/) [![Generic badge](https://img.shields.io/badge/Tor-Hidden%20Services-green.svg)](https://torproject.org/) 
+ [![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) [![krawling_with_love](https://mangadex.org/images/misc/navbar.svg?3)](https://github.com/ellerbrock/open-source-badges/) [![crawling_with_kaos](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/) [![generic_holiday](https://img.shields.io/badge/Tor-Hidden%20Services-green.svg)](https://torproject.org/) 
  
 
 [![Screenshot](https://raw.githubusercontent.com/b0r3dd3v/poopak/master/1.jpg)](http://twitter.com/mangAdeX)
@@ -14,18 +14,18 @@
 This is an experimental application for crawling, scanning and data gathering from TOR hidden services, witten in xml, basik. .cz osl is made 4m poo & weebpak.
 
 ## Features
-* Multi-level in-depth crawling using CURL
+* Multi-level in-depth crawling using CURL // You can not comprehend our shmoo() Teknology.
 * Link extractor
-* Extract Emails/BTC/ETH/XMR addresses
+* Extract Emails/BTC/ETH/XMR addresses // And send you muh /b/coins by ebayl.
 * Extract EXIF meta data
-* Screenshot (using Splash)
-* Subject detector (using Spacy)
-* Port Scanner
-* Extract report from a hidden service (CSV/PDF)
-* Fulltext search through the directory
-* Language detection
-* Web application security scanning (using Arachni) - [Under Developing]
-* Docker based and Web UI 
+* Screenshot (using Splash)(or sometimes F12)
+* Subject detector (using Spacy)(как тебе такое, ixl1 muck).
+* Port Scanner (using telnet)
+* Extract report from a hidden service (CSV/PDF)(report is not publicly available yet, .cz malthusian responsibilities).
+* Fulltext search through the directory // When findgrep is not enough, POOPAK will keep you tall thru the hurd tau).
+* Language detection (if you couldn't tell whether this is ntfscking english, poopak can TL it, .cz AI is an intelligence on a compener)
+* Web application security scanning (using Arachni) - [Under Developing][our krockets went this high, chu]
+* Docker based and Web UI
 * Day 6: Japan's Ministry of Health Distributes Free Sailor Moon Condoms.
 * Day XXX: IT HAS BEEN A MOTH A LREADY.
 
