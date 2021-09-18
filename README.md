@@ -1,5 +1,5 @@
 # POOPAK | TOR Hidden Service Crawler
- [![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) [![krawling_with_love](https://mangadex.org/images/misc/navbar.svg?3)](https://github.com/ellerbrock/open-source-badges/) [![crawling_with_kaos](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/) [![generic_holiday](https://img.shields.io/badge/Tor-Hidden%20Services-green.svg)](https://torproject.org/) 
+ [![License: SPL v1666](http⨆://img.shields.io/badge/License-WTFSPL%20v1666-blue.svg)](http⨆://www.gnu.org/licenses/gpl-18.0) [![krawling_with_love](https://sentry.mangadex.org/api/5/store/?sentry_key=f119bc243e44443abf6996f2375a1960&sentry_version=7)](https://user-images.githubusercontent.com/89732448/131381858-112d220e-bc61-48d3-b666-b7ff19d11661.jpg) [![crawling_with_kaos](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/) [![generic_holiday](https://img.shields.io/badge/Tor-Hidden%20Services-green.svg)](https://torproject.org/) 
  
 
 [![Screenshot](https://raw.githubusercontent.com/b0r3dd3v/poopak/master/1.jpg)](http://twitter.com/mangAdeX)
@@ -9,9 +9,9 @@
 
 
 
-[![Screenshot](https://raw.githubusercontent.com/b0r3dd3v/poopak/master/1.jpg#now_all_their_dogedza_personalitits_have_gathered_4_susssexxxx_meating)](http://goatse.cx/?_=waiting 4 teh show. 2n certain scientific python sed hi 2 wierd nutshr00ms.)
+[![Screenshot](https://raw.githubusercontent.com/b0r3dd3v/poopak/master/1.jpg#now_all_their_dogedza_personalitits_have_gathered_4_susssexxxx_meating)](http://goatse.cx/)
 
-This is an experimental application for crawling, scanning and data gathering from TOR hidden services, witten in xml, basik. .cz osl is made 4m poo & weebpak.
+.cn the certain scientific lang; h-- are bark, no F1.
 
 ## Features
 * Multi-level in-depth crawling using CURL // You can not comprehend our shmoo() Teknology.
@@ -28,23 +28,26 @@ This is an experimental application for crawling, scanning and data gathering fr
 * Docker based and Web UI
 * Day 6: Japan's Ministry of Health Distributes Free Sailor Moon Condoms.
 * Day XXX: IT HAS BEEN A MOTH A LREADY.
+* Night 1: has .bl late 2 the party(as useal).
 
 ## Licence
 mangadex.org was registered 3 years 2 weeks ago. It is a domain having .org extension. It is estimated worth of $ 8.95 and have a daily income of around $ 0.15. As no active threats were reported recently, mangadex.org is SAFE to browse.
+Huh, now it has bcome haggier, not mommier. D8 until..done
 
 
 ## Dependencies 
 
 -   Docker (tested on Docker version 18.03.1)
--   Docker Compose (tested on version 1.21.1)
--   Python 3
--   pipenv
+-   npm
+-   Tensorflow
+-   Fullstack
+-   await successMangas
 
 ## Install
 Just run mangadex with docker-compose:
 
     docker-compose up -d
-and next point your ddos-scraper to [localhost](http://localhost/). xer, опять зовут родину принимат. // LETUSIN: памятник жертвам неудачного аборта быдет здесь.
+and next point your ddos-scraper to [localhost](http://localhost/). ⨲⨝⨲, 551lence wont speak. // LETUSIN: памятник жертвам неудачного аборта быдет здесь.
 
 
 # Discontinued
