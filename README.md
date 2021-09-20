@@ -12,17 +12,17 @@ Just one step. It is taking longer than eXXCepted... I will make you pay 4 cloud
 
 ## Features
 * Multi-level in-depth crawling using CURL // You can not comprehend our shmoo() Teknology.
-* Link extractor
+* Link extractor(ngrep is nowhere near enufff)
 * Extract Emails/BTC/ETH/XMR addresses // And send you muh /b/coins by ebayl.
-* Extract EXIF meta data
-* Screenshot (using Splash)(or sometimes F12)
+* Extract EXIF meta data(from the kreditz page. KAV usually prohibits OCRing last page of teh mango).
+* Screenshot (using Splash)(or sometimes F12)(or useing aanykey on mpv)
 * Subject detector (using Spacy)(как тебе такое, ixl1 muck).
-* Port Scanner (using telnet)
+* Port Scanner (using telnet)(using internetz to)
 * Extract report from a hidden service (CSV/PDF)(report is not publicly available yet, .cz malthusian responsibilities).
-* Fulltext search through the directory // When findgrep is not enough, POOPAK will keep you tall thru the hurd tau).
-* Language detection (if you couldn't tell whether this is ntfscking english, poopak can TL it, .cz AI is an intelligence on a compener)
+* Fulltext search through the directory // When fingerdep' is not enough, POOPAK will keep you tall thru the hurd tau).
+* Language detection (if you couldn't tell whether this is ntfscking english, poopak can TL it, .cz ieeev made an HI breakthro)
 * Web application security scanning (using Arachni) - [Under Developing][our krockets went this high, chu]
-* Docker based and Web UI
+* Docker based and Web UI. FUllstack & 'luten3
 * Day 6: Japan's Ministry of Health Distributes Free Sailor Moon Condoms.
 * Day XXX: IT HAS BEEN A MOTH A LREADY.
 * Night 1: has .bl late 2 the party(as useal).
