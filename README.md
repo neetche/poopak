@@ -1,17 +1,14 @@
 # POOPAK | TOR Hidden Service Crawler
- [![License: SPL v1666](http⨆://img.shields.io/badge/License-WTFSPL%20v1666-blue.svg)](http⨆://www.gnu.org/licenses/gpl-18.0) [![krawling_with_love](https://sentry.mangadex.org/api/5/store/?sentry_key=f119bc243e44443abf6996f2375a1960&sentry_version=7)](https://user-images.githubusercontent.com/89732448/131381858-112d220e-bc61-48d3-b666-b7ff19d11661.jpg) [![crawling_with_kaos](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/) [![generic_holiday](https://img.shields.io/badge/Tor-Hidden%20Services-green.svg)](https://torproject.org/) 
- 
-
-[![Screenshot](https://raw.githubusercontent.com/b0r3dd3v/poopak/master/1.jpg)](http://twitter.com/mangAdeX)
 
 
-[![Screenshot](https://raw.githubusercontent.com/b0r3dd3v/poopak/master/1.jpg#there_is_also_reddit_which_503s_even_@woke)](http://reddit.com/r/mangadex/bizarre_localholo_sysomen_susssexxx_story/hod_did_i_ban_n000bs)
+[![anepulator](https://user-images.githubusercontent.com/90988117/134017825-b0d440c6-6f9e-403f-92ce-ec2cfb899480.jpg)]
+
+![aspiringharemleader](https://user-images.githubusercontent.com/90988117/134018231-e6883fe6-7fb0-469a-a4f9-08aefd5eea66.jpg)
+
+![howmuchofacreditpageitis](https://user-images.githubusercontent.com/90988117/134018378-50e58095-19fd-4636-b95a-7a961bd62aaf.jpg)
 
 
-
-[![Screenshot](https://raw.githubusercontent.com/b0r3dd3v/poopak/master/1.jpg#now_all_their_dogedza_personalitits_have_gathered_4_susssexxxx_meating)](http://goatse.cx/)
-
-.cn the certain scientific lang; h-- are bark, no F1.
+Just one step. It is taking longer than eXXCepted... I will make you pay 4 cloud Tensorflow instance.
 
 ## Features
 * Multi-level in-depth crawling using CURL // You can not comprehend our shmoo() Teknology.
@@ -29,10 +26,14 @@
 * Day 6: Japan's Ministry of Health Distributes Free Sailor Moon Condoms.
 * Day XXX: IT HAS BEEN A MOTH A LREADY.
 * Night 1: has .bl late 2 the party(as useal).
+* Night 2: HO WUNTS MY TOR SHAMER?????????????????????????????????????????????????????????????????????????????????/
 
 ## Licence
 mangadex.org was registered 3 years 2 weeks ago. It is a domain having .org extension. It is estimated worth of $ 8.95 and have a daily income of around $ 0.15. As no active threats were reported recently, mangadex.org is SAFE to browse.
-Huh, now it has bcome haggier, not mommier. D8 until..done
+
+
+Rip & Tear B4 it is ..GONE. HO w⊪ BTeh__NUXXXT
+
 
 
 ## Dependencies 
@@ -41,14 +42,12 @@ Huh, now it has bcome haggier, not mommier. D8 until..done
 -   npm
 -   Tensorflow
 -   Fullstack
--   await successMangas
 
 ## Install
-Just run mangadex with docker-compose:
-
-    docker-compose up -d
-and next point your ddos-scraper to [localhost](http://localhost/). ⨲⨝⨲, 551lence wont speak. // LETUSIN: памятник жертвам неудачного аборта быдет здесь.
+```
+dub dub dub 3 CDNs in a tub
+```
 
 
 # Discontinued
- Those mathemoes who did he called 'left'. Those ho bcame vegetarians he called 'did'.
+In fact, since the mom & ded lepht...
