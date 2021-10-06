@@ -8,7 +8,7 @@
 ![howmuchofacreditpageitis](https://user-images.githubusercontent.com/90988117/134018378-50e58095-19fd-4636-b95a-7a961bd62aaf.jpg)
 
 
-Just one step. It is taking longer than eXXCepted... I will make you pay 4 cloud Tensorflow instance.
+All skullbois in heat unfailing tend to grope their sys wo end, but wut to grop / butts.
 
 ## Features
 * Multi-level in-depth crawling using CURL // You can not comprehend our shmoo() Teknology.
