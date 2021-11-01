@@ -7,8 +7,7 @@
 
 ![howmuchofacreditpageitis](https://user-images.githubusercontent.com/90988117/134018378-50e58095-19fd-4636-b95a-7a961bd62aaf.jpg)
 
-
-All skullbois in heat unfailing tend to grope their sys wo end, but wut to grop / butts.
+Koding treajures were here. not anymo.
 
 ## Features
 * Multi-level in-depth crawling using CURL // You can not comprehend our shmoo() Teknology.
